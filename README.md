@@ -1,1 +1,2 @@
 # AAAAAAA
+bkn tugas gw
