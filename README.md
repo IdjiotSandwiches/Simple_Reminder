@@ -1,2 +1,2 @@
-# AAAAAAA
-bkn tugas gw
+# JAVA OOP
+just have fun
